@@ -1,18 +1,20 @@
-Phasefile Tool
-========
-Phasefile Tool is a noob proof version of Panda3D's multify tool that features a easy way to convert .MF files back and forth from its folder counterparts.
+# Phasefile Tool
 
-This app is great for people who don't want to download the full Panda3D SDK but want to view the Toontown Phase Files.
+# ❓ What is Phasefile Tool
+Phasefile Tool is a simple script to help automate the compilation and decompilation of Panda3D MultiFiles
+
+This app is really useful for people to make "Toontown Content Packs" without the full SDK.
 
 This app comes bundled with multify.exe and the correct DLLs as well as a noob proof batch script for little to no confusion.
 
-## Usage
-1: Drag .MF or Folders into the extracted directry
+# 🖍 Usage
 
-2: Run the .BAT
+## 💻 Windows
+To use this tool simply run the **Phasefile.bat** file after moving your DNA files into the project.
 
-3: Type 1 or 2 depending on what your doing
+## 🐧 Linux
+TBA
 
-4: Type Yes to verify that you are doing the correct operation
+# 📝 Notice
 
-5: Watch the magic happen
+This repository will not exist without the hard work of [Panda3D](https://www.panda3d.org/) and all their [contributors](https://github.com/panda3d/panda3d/graphs/contributors)
